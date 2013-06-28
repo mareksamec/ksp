@@ -1,0 +1,3 @@
+Návrh *Systému pomoci lidem bez domova  a nízko-pøíjmovým skupinám obyvatel modelovaný procesním pøístupem*. Tento projekt vznikl jako souèást diplomové práce Marka Samce na VŠE - FIS v oboru Kognitivní informatika. Model prezentuje systém interakce více subjektù takovým zpùsobem, aby byla souèinnost sociálních služeb efektivní pøi zachování podoby jejich stávajících vnitøních procesù. Model však mùže být využit i pro návrh jedné homogení sociáln služby adresují všechny oblasti, kterých se model dotýká. Mezi tyto oblasti patøí hlavnì zajištìní potravin, hygieny a šatstva a také zajištìní pracovních pøíležitostí.
+
+Model je otevøený a jakékoliv pøipomínky, kritika èi návhry na zlepšení budou uvítány.
